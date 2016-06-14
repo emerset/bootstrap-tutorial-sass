@@ -7956,3 +7956,9 @@ body {
 .primary, strong, h2 {
   color: #3b5a76;
 }
+
+.container-main {
+  background: #fff;
+  margin-top: 80px;
+  padding: 0 30px 30px 30px;
+}
