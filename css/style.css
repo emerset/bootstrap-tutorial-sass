@@ -8033,3 +8033,10 @@ header h1 {
   padding: 0 10px 0 10px;
   margin-bottom: 30px;
 }
+
+footer {
+  background: #3b5a76;
+  color: #fff;
+  text-align: center;
+  padding-top: 15px;
+}
