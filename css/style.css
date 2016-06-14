@@ -8026,3 +8026,10 @@ header h1 {
   background: #ededed;
   padding: 10px;
 }
+
+.work-list li {
+  list-style: none;
+  float: left;
+  padding: 0 10px 0 10px;
+  margin-bottom: 30px;
+}
