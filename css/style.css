@@ -7985,3 +7985,7 @@ header h1 {
   margin: auto;
   margin-top: -80px;
 }
+
+.line {
+  max-width: 100%;
+}
